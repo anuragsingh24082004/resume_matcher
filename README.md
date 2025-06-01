@@ -42,7 +42,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/ai-resume-matcher.git
+git clone https://github.com/anuragsingh24082004/ai-resume-matcher.git
 cd ai-resume-matcher
 Create virtual environment (optional but recommended)
 
